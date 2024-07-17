@@ -11,11 +11,12 @@ Cannot be truly followed."
 
 IAGO Reversi is a reversi (Othello) board game available for iOS and android.
 
+No ads. No purchases. No malarkey.
+
 ## Screenshots
 
-<img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-07-17 at 14.12.28.png" width="200">
-<img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-07-17 at 14.12.33.png" width="200">
+<img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-07-17 at 14.12.28.png" width="200"><img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-07-17 at 14.12.33.png" width="200">
 
 ## Privacy Policy
 
-We don't collect any data. All settings and saved games are stored on the device.
+We don't collect any data.
