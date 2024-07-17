@@ -4,10 +4,10 @@ A classic reversi (Othello) strategy board game. Battle human v. human or train 
 
 ## Description
 
-```I follow him to serve my turn upon him.
-We cannot all be masters, nor all masters
-Cannot be truly followed.
--Iago```
+``I follow him to serve my turn upon him.\n
+We cannot all be masters, nor all masters\n
+Cannot be truly followed.\n
+-Iago``
 
 IAGO Reversi is a reversi (Othello) board game available for iOS and android.
 
