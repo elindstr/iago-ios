@@ -1,4 +1,4 @@
-# IAGO Reversi: classic reversi (Othello) board game
+# Iago Reversi: classic reversi (Othello) board game
 
 A classic reversi (Othello) strategy board game. Battle human v. human or train against the robot.
 
@@ -9,7 +9,7 @@ We cannot all be masters, nor all masters
 Cannot be truly followed."
 -Iago
 
-IAGO Reversi is a reversi (Othello) board game available for iOS and android.
+Iago Reversi is a reversi (Othello) board game available for iOS and android.
 
 No ads. No purchases. No malarkey.
 
