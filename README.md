@@ -15,7 +15,7 @@ No ads. No purchases. No malarkey.
 
 ## Screenshots
 
-<img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-07-17 at 14.12.28.png" width="200"><img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-07-17 at 14.12.33.png" width="200">
+<img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-07-17 at 14.12.28.png" width="200"> <img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-07-17 at 14.12.33.png" width="200">
 
 ## Privacy Policy
 
