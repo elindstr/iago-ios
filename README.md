@@ -13,7 +13,7 @@ IAGO Reversi is a reversi (Othello) board game available for iOS and android.
 
 ## Screenshots
 
-`
+...
 
 ## Privacy Policy
 
